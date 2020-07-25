@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "syahrulanuar.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Syahrul Anuar Repository"
 theme = "Sam"
 
 [[params.mainMenu]]
@@ -8,9 +8,13 @@ theme = "Sam"
     text = "about"
 
 [[params.mainMenu]]
-    link = "WIP"
+    link = "/WIP"
     text = "Works In Progress"
 
 [[params.mainMenu]]
     link = "Nowiswhen"
     text = "Now Is When"
+
+[[params.mainMenu]]
+    link = "Contact"
+    text = "Contact"
